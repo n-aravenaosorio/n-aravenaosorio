@@ -37,69 +37,14 @@
 
 </div>
 
-<div align="left">
-
-
-## 🚀 Featured Projects
-
-### 1. 📡 Signal Processing Optimization (CCHEN Internship)
-**Context:** Internship at the Chilean Nuclear Energy Commission.
-<br>
-**Impact:** Achieved a **15% optimization in operational precision** using ETL & Regression.
-<br>
-**Stack:** `Python` `Autodesk Inventor` `Signal Processing`
-
----
-
-### 2. 🏥 Breast Cancer Prediction System
-**Context:** Machine Learning Academic Project.
-<br>
-**Impact:** High accuracy tumor classification using **KNN & Random Forest**.
-<br>
-**Stack:** `Python` `Scikit-learn` `Pandas`
-
----
-
-### 3. 📈 Financial Dashboard: Tesla vs GameStop
-**Context:** IBM Data Science Capstone.
-<br>
-**Impact:** Interactive dashboard for stock trend analysis using APIs.
-<br>
-**Stack:** `Python` `Plotly` `Dash` `SQL`
-
-<br>
-<br>
-
-## 🏆 GitHub Analytics
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</a>
-
-<br>
-<br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" height="150" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="Streak" height="150" />
-</p>
-
-<br>
-
-## 📫 Let's Connect
-
-I am currently looking for opportunities as a **Data Scientist** or **Data Analyst**.
-
-* **Email:** [n.aravenaosorio1@gmail.com](mailto:n.aravenaosorio1@gmail.com)
-* **LinkedIn:** [Nicolás Aravena Osorio](TU_LINK_DE_LINKEDIN)
-* **Location:** Santiago, Chile
-
+<div align="center">
+  <h3>Want to know more?</h3>
+  <a href="CV Nicolas Aravena O.2026.pdf" target="_blank" style="text-decoration:none;">
+    <kbd>
+      <font size="5">View My Full Resume</font> 
+      <font size="7"><b>PDF</b></font>
+    </kbd>
+    <br>
+    <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="40" />
+  </a>
 </div>
-
-------
-
-[Nicolás Aravena Osorio](https://github.com/n-aravenaosorio)
