@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<strong><font size="1">⚡ ABOUT ME</font></strong>
+<strong><font size="0.1">⚡ ABOUT ME</font></strong>
 
 <p align="left">
 <font size="1">
