@@ -9,26 +9,22 @@
 </div>
 
 <div align="left">
+<sub>
 
-<strong><font size="0.1">⚡ ABOUT ME</font></strong>
+**⚡ ABOUT ME**
 
 <p align="left">
-<font size="1">
-I am a final-year <b>Engineering Physics student</b> specializing in <b>Data Science</b> and <b>Analytics</b>. My background in physics gives me a unique perspective on problem-solving: I don't just analyze data; I understand the underlying mechanisms that generate it. I enjoy bridging the gap between <b>rigorous scientific analysis</b> and <b>business intelligence</b>. Whether it's optimizing signal processing or predicting financial trends, I love turning complex datasets into clear, actionable stories.
-</font>
+I am a final-year <b>Engineering Physics student</b> specializing in <b>Data Science</b> and <b>Analytics</b>. My background in physics gives me a unique perspective on problem-solving: I don't just analyze data; I understand the underlying mechanisms that generate it.
 </p>
 
-<font size="1">
-  
 * 🔭 I’m currently working on <b>Predictive Modeling & Solar Cell Optimization</b>.
 * 🌱 I’m currently learning <b>Advanced Deep Learning & Cloud Architecture</b>.
 * 💡 I like to solve problems related to <b>Physics, Mechanics, and Big Data</b>.
 * 🌌 Fun fact: <b>My journey started in Astronomy before I discovered my passion for Data Science.</b>
-</font>
 
+</sub>
 </div>
 
-<div align="left">
 
 ## 🛠️ My Favorite Tools
 
