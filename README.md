@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" alt="Header Nicolás">
+<img src="banner1.png" width="100%" alt="Header Nicolás">
 <h1 align="center">
 Hi, I'm Nicolás Aravena! 👋
     <a href="https://github.com/TU_USUARIO" target="_self">
