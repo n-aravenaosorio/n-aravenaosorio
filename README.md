@@ -1,67 +1,41 @@
-<img src="banner1.png" width="100%" alt="Header Nicolás">
+<img src="banner1.png" width="3200" alt="Animación de mis proyectos">
 <h1 align="center">
-
-<p align="center">
-    <a href="https://github.com/TU_USUARIO">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Physics+Student;Data+Science+%26+Analytics;Signal+Processing+(CCHEN);Python+%7C+SQL+%7C+Power+BI;Driven+by+Data&center=true&width=450&height=45">
-    </a>
-</p>
-
-<hr>
-
-<pre>
-⚛️ I am an Engineering Physics Student specializing in Data Science.
-🎓 Finishing my degree at Universidad Andrés Bello (Santiago, Chile).
-📊 I bridge the gap between complex physical models and business insights.
-🔭 Working on: Deep Learning for Solar Cells & Signal Processing pipelines.
-🌱 Learning about: Advanced BI Dashboards & Cloud Architectures.
-🌟 Main languages: Python (Pandas, Scikit-learn), SQL, R.
-🚩 Interested in: Data Science, Data Analysis, and Machine Learning roles.
-🤔 I’m currently open for: <b>Job opportunities</b> in Data Science.
-</pre>
-<hr>
-
-## 🤝 Connect with me
-<p align="center">
-    <a href="mailto:n.aravenaosorio1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+ <div align="center">
+     
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Engineering+Physics+%F0%9F%92%BB;Data+Science+%26+Analytics+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%F0%9F%90%8D;Predictive+Modeling+%26+ETL+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Languages & Core
+### 👨‍💻 Programming Languages
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"></a>
 
-<p>
-    <a href="https://github.com/TU_USUARIO"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
-</p>
+### 🧰 Data Science & Machine Learning Libraries
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"></a>
+<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"></a>
+<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black"></a>
+<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-444876?style=flat-square&logo=python&logoColor=white"></a>
 
-### 🧰 Data Science & ML Libraries
+### 📊 Business Intelligence & Cloud
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"></a>
+<a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"></a>
+<a href="#"><img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm-cloud&logoColor=white"></a>
+<a href="#"><img alt="Google Analytics" src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white"></a>
 
-<p>
-    <a href="https://github.com/TU_USUARIO"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?logo=scikit-learn&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=python&logoColor=black"></a>
-</p>
-
-### 📊 Visualization & Tools
-
-<p>
-    <a href="https://github.com/TU_USUARIO"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=power-bi&logoColor=black"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-1261FE?logo=ibm-cloud&logoColor=white"></a>
-    <a href="https://github.com/TU_USUARIO"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-</br>
-
-
-
+### 💻 Engineering & Dev Tools
+<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"></a>
+<a href="#"><img alt="Autodesk Inventor" src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"></a>
 
 ------
 
-[Nicolás Aravena](https://github.com/n-aravenaosorio)
+[Nicolás Aravena Osorio](https://github.com/n-aravenaosorio)
