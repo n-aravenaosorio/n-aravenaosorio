@@ -7,7 +7,20 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=1500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Engineering+Physics+%F0%9F%92%BB;Data+Science+%26+Analytics+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%F0%9F%90%8D;Predictive+Modeling+%26+ETL+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
+<div align="left">
 
+## ⚡ About Me
+
+I am a final-year **Engineering Physics student** specializing in **Data Science** and **Analytics**. My background in physics gives me a unique perspective on problem-solving: I don't just analyze data; I understand the underlying mechanisms that generate it.
+
+I enjoy bridging the gap between **rigorous scientific analysis** and **business intelligence**. Whether it's optimizing signal processing or predicting financial trends, I love turning complex datasets into clear, actionable stories.
+
+* 🔭 I’m currently working on **Predictive Modeling & Solar Cell Optimization**.
+* 🌱 I’m currently learning **Advanced Deep Learning & Cloud Architecture**.
+* 💡 I like to solve problems related to **Physics, Mechanics, and Big Data**.
+* 🌌 Fun fact: **My journey started in Astronomy before I discovered my passion for Data Science.**
+
+</div>
 <div align="left">
 
 ## 🛠️ My Favorite Tools
@@ -37,13 +50,13 @@
 
 </div>
 
-<br>
+
 <br>
 <div align="center">
   <h3>Want to know more?</h3>
   <h4>View My Full Resume <b>PDF</b></h4>
   
-  <h1>👇</h1>
+  <h2>👇</h2>
 
   <a href="CV_Nicolas_Aravena_2026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="80" alt="View Resume" />
