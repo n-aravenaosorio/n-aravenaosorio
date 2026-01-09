@@ -37,14 +37,15 @@
 
 </div>
 
+<br>
+<br>
 <div align="center">
   <h3>Want to know more?</h3>
-  <a href="CV_Nicolas_Aravena_2026" target="_blank" style="text-decoration:none;">
-    <kbd>
-      <font size="5">View My Full Resume</font> 
-      <font size="7"><b>PDF</b></font>
-    </kbd>
-    <br>
-    <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="40" />
+  <h4>View My Full Resume <b>PDF</b></h4>
+  
+  <h1>👇</h1>
+
+  <a href="CV_Nicolas_Aravena_2026.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="80" alt="View Resume" />
   </a>
 </div>
