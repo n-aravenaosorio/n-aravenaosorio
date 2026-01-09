@@ -39,7 +39,7 @@
 
 <div align="center">
   <h3>Want to know more?</h3>
-  <a href="CV Nicolas Aravena O.2026.pdf" target="_blank" style="text-decoration:none;">
+  <a href="CV_Nicolas_Aravena_2026" target="_blank" style="text-decoration:none;">
     <kbd>
       <font size="5">View My Full Resume</font> 
       <font size="7"><b>PDF</b></font>
