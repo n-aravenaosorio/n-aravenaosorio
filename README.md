@@ -10,15 +10,15 @@
 
 <div align="left">
 
-<strong><font size="2">⚡ ABOUT ME</font></strong>
+<strong><font size="1">⚡ ABOUT ME</font></strong>
 
 <p align="left">
-<font size="2">
+<font size="1">
 I am a final-year <b>Engineering Physics student</b> specializing in <b>Data Science</b> and <b>Analytics</b>. My background in physics gives me a unique perspective on problem-solving: I don't just analyze data; I understand the underlying mechanisms that generate it. I enjoy bridging the gap between <b>rigorous scientific analysis</b> and <b>business intelligence</b>. Whether it's optimizing signal processing or predicting financial trends, I love turning complex datasets into clear, actionable stories.
 </font>
 </p>
 
-<font size="2">
+<font size="1">
   
 * 🔭 I’m currently working on <b>Predictive Modeling & Solar Cell Optimization</b>.
 * 🌱 I’m currently learning <b>Advanced Deep Learning & Cloud Architecture</b>.
