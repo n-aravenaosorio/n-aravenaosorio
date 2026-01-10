@@ -9,21 +9,19 @@
 </div>
 
 <div align="left">
-<sub>
 
-**⚡ ABOUT ME**
+### ⚡ About Me
 
-<p align="left">
-I am a final-year <b>Engineering Physics student</b> specializing in <b>Data Science</b> and <b>Analytics</b>. My background in physics gives me a unique perspective on problem-solving: I don't just analyze data; I understand the underlying mechanisms that generate it.
-</p>
+I am a final-year **Engineering Physics student** specializing in **Data Science** and **Analytics**.  
+My background in physics gives me a unique perspective on problem-solving — I don't just analyze data; I understand the mechanisms behind it.
 
-* 🔭 I’m currently working on <b>Predictive Modeling & Solar Cell Optimization</b>.
-* 🌱 I’m currently learning <b>Advanced Deep Learning & Cloud Architecture</b>.
-* 💡 I like to solve problems related to <b>Physics, Mechanics, and Big Data</b>.
-* 🌌 Fun fact: <b>My journey started in Astronomy before I discovered my passion for Data Science.</b>
+- 🔭 **Predictive Modeling & Solar Cell Optimization**
+- 🌱 **Advanced Deep Learning & Cloud Architecture**
+- 💡 **Physics, Mechanics, Big Data**
+- 🌌 *Started in Astronomy before discovering Data Science*
 
-</sub>
 </div>
+
 
 
 ## 🛠️ My Favorite Tools
