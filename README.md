@@ -10,56 +10,53 @@
 
 <div align="left">
 
-### ⚡ About Me
+**⚡ ABOUT ME**
 
-I am a final-year **Engineering Physics student** specializing in **Data Science** and **Analytics**.  
-My background in physics gives me a unique perspective on problem-solving — I don't just analyze data; I understand the mechanisms behind it.
+Final-year **Engineering Physics** student specializing in **Data Science & Analytics**.  
+I analyze data and understand the mechanisms that generate it.
 
-- 🔭 **Predictive Modeling & Solar Cell Optimization**
-- 🌱 **Advanced Deep Learning & Cloud Architecture**
-- 💡 **Physics, Mechanics, Big Data**
-- 🌌 *Started in Astronomy before discovering Data Science*
-
-</div>
+🔭 Predictive Modeling & Solar Cell Optimization  
+🌱 Advanced Deep Learning & Cloud Architecture  
+💡 Physics · Mechanics · Big Data  
+🌌 Started in Astronomy before Data Science
 
 
+**🛠 MY FAVORITE TOOLS**
 
-## 🛠️ My Favorite Tools
+**Programming**
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Int/Adv](https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
 
-### 👨‍💻 Programming Languages
-* <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square" alt="Int-Adv" />
-* <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
-* <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
+**Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Advanced](https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black)
+![Advanced](https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square)
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
 
-### 🧰 Data Science & Machine Learning
-* <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square" alt="Advanced" />
-* <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square" alt="Advanced" />
-* <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
-* <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
+**BI & Cloud**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Int/Adv](https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Int/Adv](https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm-cloud&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
+
+**Engineering**
+![Inventor](https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Advanced](https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Advanced](https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square)
 
 
-### 📊 Business Intelligence & Cloud
-* <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square" alt="Int-Adv" />
-* <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/Level-Int%20%2F%20Adv-2ea44f?style=flat-square" alt="Int-Adv" />
-* <img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm-cloud&logoColor=white" alt="IBM Cloud" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
-* <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
-
-### 💻 Engineering & Dev Tools
-* <img src="https://img.shields.io/badge/Inventor-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Inventor" /> <img src="https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square" alt="Advanced" />
-* <img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Level-Advanced-2ea44f?style=flat-square" alt="Advanced" />
-* <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Level-Intermediate-0366d6?style=flat-square" alt="Intermediate" />
-
-</div>
-
-
-<br>
-<div align="center">
-  <h3>Want to know more?</h3>
-  <h4>View My Full Resume <b>PDF</b></h4>
-  
-  <h2>👇</h2>
-
-  <a href="CV_Nicolas_Aravena_2026.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="80" alt="View Resume" />
-  </a>
-</div>
