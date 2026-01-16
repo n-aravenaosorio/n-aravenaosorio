@@ -53,7 +53,7 @@
   <h4>𝐖𝐚𝐧𝐭 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐦𝐨𝐫𝐞?</h4>
   <h5>𝐕𝐢𝐞𝐰 𝐌𝐲 𝐅𝐮𝐥𝐥 𝐑𝐞𝐬𝐮𝐦𝐞 <b>𝐏𝐃𝐅</b></h5>
   <h3>👇</h3>
-  <a href="CV_Nicolas_Aravena_2026.pdf" target="_blank">
+  <a href="CV_Nicolas_Aravena_2026_.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Click_to_Open-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" height="80" alt="View Resume" />
   </a>
 </div>
